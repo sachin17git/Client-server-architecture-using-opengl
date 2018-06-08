@@ -12,6 +12,7 @@ float p13 = 300.0, p14 = 262.0, p15 = 300.0, p16 = 114.0, p17 = 216.0, p18 = 99.
 /*the variables used here are the x and y coordinates.
 where p1,p3,p5,p7,p9,p11,p13,p15,p17 are x coordinates.
 and p2,p4,p6,p8,p10,p12,p14,p16,p18 are y coordinates.
+*/
 void download();
 void response();
 void downloading();
