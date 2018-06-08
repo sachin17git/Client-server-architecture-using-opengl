@@ -9,6 +9,9 @@ int len1, len2, len3, len4, len5, len6, len7;
 void one();
 float angle, p1 = 107.0, p2 = 300.0, p3 = 175.0, p4 = 200.0, p5 = 175.0, p6 = 200.0, p7 = 100.0, p8 = 115.0, p9 = 185.0, p10 = 99.0, p11 = 210.0, p12 = 280.0;
 float p13 = 300.0, p14 = 262.0, p15 = 300.0, p16 = 114.0, p17 = 216.0, p18 = 99.0;
+/*the variables used here are the x and y coordinates.
+where p1,p3,p5,p7,p9,p11,p13,p15,p17 are x coordinates.
+and p2,p4,p6,p8,p10,p12,p14,p16,p18 are y coordinates.
 void download();
 void response();
 void downloading();
